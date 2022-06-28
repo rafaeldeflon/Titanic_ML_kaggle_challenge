@@ -4,7 +4,7 @@ This is my project for the kaggle's 'Titanic - Machine Learning from Disaster' c
 
 ## The files
 
-This repository has 5 csv's files: gender_sumission (the archive model of submission for the challenge), test (the test data for the ML models), train (the Titanic's passengers data) and the 2 archives built for submission on kaggle.
+This repository has 5 csv's files: gender_sumission (the file model of submission for the challenge), test (the test data for the ML models), train (the Titanic's passengers data) and the 2 files built for submission on kaggle.
 
 
 ## The models
